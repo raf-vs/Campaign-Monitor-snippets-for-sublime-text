@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<tableofcontents><li><repeatertitle/></li></tableofcontents>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>cm-t</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Table of contents tag for Campaign monitor templates</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<singleline repeatertitle='true'>$1</singleline>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>cm-s</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Singleline for Campaign monitor templates</description>
+</snippet>

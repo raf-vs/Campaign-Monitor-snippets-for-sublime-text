@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<layout label='$1'>$2</layout>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>cm-l</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Layout tag for Campaign monitor templates</description>
+</snippet>

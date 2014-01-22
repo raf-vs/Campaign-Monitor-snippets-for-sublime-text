@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<unsubscribe>$1</unsubscribe>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>cm-u</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Unsubscribe link for Campaign monitor templates</description>
+</snippet>

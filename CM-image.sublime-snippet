@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<img editable='true' width="$1" />]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>cm-i</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Image for Campaign monitor templates</description>
+</snippet>

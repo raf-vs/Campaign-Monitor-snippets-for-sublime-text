@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<preferences>$1</preferences>]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>cm-p</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Preferences link for Campaign monitor templates</description>
+</snippet>
